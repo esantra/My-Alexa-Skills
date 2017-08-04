@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "Changes"
+    },
+    {
+      "intent": "CreateLoan"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
